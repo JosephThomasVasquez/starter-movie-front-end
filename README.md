@@ -1,10 +1,8 @@
 # WeLoveMovies Frontend Application
 
-This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
+## A Movies App that displays theaters showing movies and reviews data via fetching from my API in the backend.
 
-## Installation
+### Made with React, React Router, and Bootstrap
 
-1. Fork / clone this repository.
-1. Run `npm install`.
-
-Use `npm start` to run the application. If you deploy this application, create a `.env.production` file similar to the `.env.development` file.
+Preview:
+![Desktop and Mobile preview](https://github.com/JosephThomasVasquez/starter-movie-front-end/blob/main/public/images/we-love-movies-cover.png)
